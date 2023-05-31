@@ -94,3 +94,13 @@ input{
     color: white;
     min-width: 90px;
 }
+
+a{
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 12px;
+    line-height: 15px;
+    text-decoration-line: underline;
+    color: #1123CA;
+}
